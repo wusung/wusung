@@ -1,10 +1,8 @@
-### Hi there 👋
-
-I am wusung.
+### Hi there 👋, I am wusung.
 
 - Dev Expert for C# and Java
 - Long-time Javascript user
-
+- Windows Hacker
 
 <!--
 **wusung/wusung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

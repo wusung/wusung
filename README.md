@@ -2,7 +2,7 @@
 
 - Dev Expert for C# and Java
 - Long-time Javascript user
-- Windows Hacker
+- Windows/Linux Hacker
 
 <!--
 **wusung/wusung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

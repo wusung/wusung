@@ -4,7 +4,11 @@
 - Long-time Javascript user
 - Windows/Linux Hacker
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wusung&hide=css,scss,html&theme=)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=wusung&show_icons=true&locale=en&layout=compact&theme=)
+
+![Top Langs](https://github-readme-stats.vercel.app/api?username=wusung&show_icons=true&locale=en&theme=)
+
+![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=wusung&theme=)
 
 Buy Me A Coffee:  https://paypal.me/warp941
 

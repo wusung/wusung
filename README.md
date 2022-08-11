@@ -15,8 +15,6 @@ Buy Me A Coffee:  https://paypal.me/warp941
 <!--
 **wusung/wusung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img alt="RichardDorian's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RichardDorian&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

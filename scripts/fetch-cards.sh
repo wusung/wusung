@@ -22,5 +22,9 @@ for name in "${!CARDS[@]}"; do
     sleep 5
   done
   rm -f "$name.tmp"
+  # profile-details renders the account email; drop that row (envelope icon + text).
+  if [ "$name" = profile-details.svg ] && [ -f "$name" ]; then
+    perl -0pi -e 's#<g class="gpsc-item" style="--gpsc-i: (\d+);">(?:(?!</g></g>).)*?M1\.75 2A1\.75.*?</g></g>##s; s#<text[^>]*>[^<]*@[^<]*</text>##g' "$name"
+  fi
   [ "$ok" = 1 ] && echo "updated $name" || echo "kept old $name"
 done
